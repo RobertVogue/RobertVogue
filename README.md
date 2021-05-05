@@ -18,9 +18,7 @@ My name is Robert Vogtritter, and I'm a full-stack software engineer!
 <img height="60" src='(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png'> <addr>
-<img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'> <addr>
-<img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> <addr>
   
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertvogue&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
