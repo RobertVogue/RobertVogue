@@ -7,7 +7,8 @@ My name is Robert Vogtritter, and I'm a full-stack software engineer!
 * 👯 I'm looking to collaborate on a new project, so reach out!
 * 💬 Ask me about anything that you want!
 * 📫 How to reach me: RCVogtritter@gmail.com
-* 
+
+
 ### [](https://github.com/robertvogue/robertvogue/#languagesandtechnologies)Languages and Technologies I Use:
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'> <addr>
