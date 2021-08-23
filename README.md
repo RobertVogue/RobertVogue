@@ -2,9 +2,7 @@
 
 My name is Robert Vogtritter, and I'm a full-stack software engineer!
 
-* 🔭 I'm currently working on improving my understanding of DS&A!
-* 🌱 I'm currently learning machine learning in Python!
-* 👯 I'm looking to collaborate on a new project, so reach out!
+* 🔭 I'm currently working on improving my understanding of DevOps!
 * 💬 Ask me about anything that you want!
 * 📫 How to reach me: RCVogtritter@gmail.com
 
