@@ -1,10 +1,9 @@
 ## Welcome to my GitHub!
 
-My name is Robert Vogtritter, and I'm a full-stack software engineer!
+My name is Bo Vogtritter, and I'm a Senior Backend Engineer!
 
-* 🔭 I'm currently working on improving my understanding of DevOps!
-* 💬 Ask me about anything that you want!
-* 📫 How to reach me: RCVogtritter@gmail.com
+* 🔭 I'm currently leading a bug squashing team.
+* 💬 Please don't contact me, I am not looking for work.
 
 
 ### [](https://github.com/robertvogue/robertvogue/#languagesandtechnologies)Languages and Technologies I Use:
